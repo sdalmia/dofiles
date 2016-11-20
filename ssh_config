@@ -1,0 +1,4 @@
+HOST caen
+   HostName login.engin.umich.edu
+   user sdalmia
+   compression yes
